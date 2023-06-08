@@ -1,0 +1,619 @@
+mammal
+canid
+canine
+felid
+canis
+equid
+equine
+scalie
+feline
+fox
+dragon
+domestic dog
+wolf
+felis
+lagomorph
+domestic cat
+reptile
+leporid
+rabbit
+horse
+pantherine
+avian
+bovid
+hybrid
+pony
+rodent
+unicorn
+marine
+ursid
+bird
+caprine
+demon
+tiger
+pegasus
+earth pony
+fish
+cervid
+alien
+arthropod
+murid
+murine
+mustelid
+bovine
+lion
+robot
+digimon \(species\)
+eeveelution
+winged unicorn
+spitz
+lizard
+chiropteran
+shark
+eulipotyphlan
+goat
+snake
+mouse
+hedgehog
+marsupial
+procyonid
+nordic sled dog
+sciurid
+raccoon
+cattle
+monster
+hyaenid
+dinosaur
+insect
+western dragon
+husky
+were
+pastoral dog
+herding dog
+werecanid
+lutrine
+mythological avian
+musteline
+elemental creature
+mephitid
+skunk
+lucario
+crocodilian
+renamon
+furred dragon
+rat
+sheep
+suina
+ailurid
+werecanine
+animatronic
+red panda
+fennec
+gryphon
+werewolf
+ursine
+suid
+flora fauna
+primate
+sus \(pig\)
+boss monster
+raccoon dog
+spotted hyena
+tanuki
+tree squirrel
+unknown species
+red fox
+giant panda
+elf
+jackal
+cheetah
+amphibian
+lynx
+hunting dog
+kobold
+snow leopard
+mollusk
+theropod
+macropod
+spirit
+leopard
+koopa
+gardevoir
+pikachu
+true musteline
+galliform
+goo creature
+phasianid
+taur
+kangaroo
+german shepherd
+animate inanimate
+haplorhine
+zebra
+passerine
+oscine
+undead
+ghost
+capreoline
+umbreon
+toy dog
+polar bear
+changeling
+canid demon
+cephalopod
+cetacean
+crocodylid
+eevee
+crocodile
+hellhound
+mustela
+imp
+gallus \(genus\)
+chicken
+sergal
+coyote
+toothed whale
+deity
+delphinoid
+eastern dragon
+pinscher
+braixen
+shih tzu
+dobermann
+domestic pig
+alligatorid
+arachnid
+experiment \(lilo and stitch\)
+corvid
+alligator
+wild boar
+draconcopode
+lopunny
+sheepdog
+accipitriform
+reindeer
+sylveon
+monkey
+charizard
+lepidopteran
+vaporeon
+ground squirrel
+zoroark
+bird dog
+chipmunk
+owl
+antelope
+mega evolution
+cyborg
+mammal taur
+glaceon
+yordle
+android
+domestic sheep
+asinus
+donkey
+dromaeosaurid
+bandicoot
+molosser
+accipitrid
+frog
+anubian jackal
+badger
+chimera
+wingless dragon
+spider
+hymenopteran
+oceanic dolphin
+dalmatian
+arcanine
+goblin
+bat pony
+collie
+orca
+arctic fox
+cougar
+anseriform
+blaziken
+anatid
+ambiguous species
+giraffid
+shiba inu
+machairodontine
+lycanroc
+retriever
+monotreme
+turtle
+lugia
+zangoose
+cervine
+orc
+yokai
+worgen
+wyvern
+espeon
+duck
+proboscidean
+domestic ferret
+didelphid
+corvus \(genus\)
+elephantid
+giraffe
+hylian
+raichu
+naga
+echidna
+goodra
+inkling
+animated skeleton
+vampire
+cobra
+elephant
+typhlosion
+rhinocerotoid
+twili
+border collie
+pinniped
+yoshi
+eagle
+food creature
+leafeon
+ape
+fairy
+mastiff
+lombax
+jolteon
+tyrannosaurid
+flareon
+cinderace
+tyrannosaurus
+velociraptor
+angel
+bee
+argonian
+merfolk
+minotaur
+gazelle
+absol
+alolan form
+mewtwo
+feathered dragon
+tyrannosaurus rex
+midnight lycanroc
+living machine
+keidran
+khajiit
+riolu
+waddling head
+guilmon
+crow
+butterfly
+incineroar
+pandaren
+delphox
+brown bear
+equid taur
+welsh corgi
+protogen
+striped hyena
+african wild dog
+coleoid
+vulpix
+chameleon
+lamia
+herpestid
+moth
+tauren
+draenei
+draconequus
+salamander \(amphibian\)
+gastropod
+maned wolf
+strepsirrhine
+lemur
+mew
+latias
+greninja
+ornithischian
+sangheili
+golden retriever
+centaur
+jaguar
+rito
+salazzle
+sighthound
+tentacle monster
+siamese
+flying wyvern
+luxray
+penguin
+hare
+camelid
+aquatic dragon
+living inflatable
+beaver
+calico cat
+gulonine
+poodle
+mink
+parrot
+charr
+quilava
+living vehicle
+xenarthran
+zombie
+gorilla
+snivy
+tem
+virginia opossum
+ninetales
+gatomon
+kaiju
+charmander
+kirlia
+genie
+gengar
+turian
+octarian
+dingo
+night fury
+jay \(bird\)
+mienshao
+xenomorph
+new world jay
+cricetid
+zorua
+octoling
+serperior
+buizel
+miqo'te
+labrador
+blue jay
+floatzel
+zeraora
+living aircraft
+crustacean
+gargoyle
+charmeleon
+weavile
+grizzly bear
+hamster
+scorbunny
+rottweiler
+octopodiform
+satyr
+hisuian form
+hippopotamid
+mightyena
+darkner
+mountain dog
+beetle
+reshiram
+fennekin
+terrier
+mineral fauna
+gecko
+scent hound
+impmon
+caprine demon
+mythological firebird
+spaniel
+night elf
+jackalope
+ceratopsian
+cyclops
+kirin
+oryctolagus
+shaymin
+common hippopotamus
+garchomp
+nidoqueen
+oni
+ambient arthropod
+domestic rabbit
+dragonite
+living plushie
+falconid
+harpy
+falcon
+primarina
+elder dragon
+meowstic
+dasyuromorph
+draft horse
+shinx
+ampharos
+alaskan malamute
+flygon
+serval
+audino
+flamedramon
+echinoderm
+hairless cat
+triceratops
+houndoom
+latios
+hippogriff
+burmecian
+sea eagle
+veemon
+deathclaw
+feraligatr
+green yoshi
+peafowl
+goat demon
+avali
+blood elf
+bald eagle
+object head
+mawile
+phoenix
+machoke
+sprigatito
+mongoose
+zora
+malacostracan
+sphynx \(cat\)
+samurott
+vombatiform
+flower creature
+slug
+malo
+pichu
+marten
+alolan vulpix
+duel monster
+gnoll
+ambient insect
+furret
+columbid
+requiem shark
+saluki
+wolfdog
+raven
+australian shepherd
+cnidarian
+feathered dinosaur
+pilosan
+leopardus
+bulbasaur
+meowth
+inteleon
+viverrid
+symbiote
+ring-tailed lemur
+ultra beast
+sky forme shaymin
+basitin
+akita
+succubus
+meerkat
+great dane
+stoat
+lynian
+decapoda
+digital creature
+felyne
+arctic wolf
+dewott
+decapodiform
+dragonair
+caracal \(genus\)
+striped skunk
+asterozoan
+starfish
+nidoking
+fanged wyvern
+true parrot
+caracal
+lari
+koala
+chinchillid
+alpaca
+midday lycanroc
+porcupine
+holstein friesian cattle
+noivern
+troll
+yveltal
+black bear
+viper
+mega lopunny
+pomeranian
+ocelot
+chinchilla
+scolipede
+ambient sealife
+moose
+seal
+skaven
+phalangeriform
+scrafty
+canid taur
+tiger shark
+litten
+cape buffalo
+narehate
+mythological sphinx
+sauropod
+pit bull
+tabby cat
+red deer
+piranha plant
+crab
+hydra
+mole salamander
+wolverine
+tenno
+kaka \(blazblue\)
+canine taur
+foo dog
+eldritch abomination
+moogle
+vulture
+suicune
+hirundinid
+milotic
+boo \(mario\)
+white-tailed deer
+ambient bird
+monitor lizard
+grovyle
+beagle
+felkin
+armadillo
+emolga
+totodile
+sneasel
+felid taur
+swallow \(bird\)
+nimbat
+vulpera
+jirachi
+growlithe
+nargacuga
+lapras
+gabumon
+swiss mountain dog
+pteropodid
+clouded leopard
+koopa troopa
+fungi fauna
+owl demon
+cerberus
+mega charizard
+living fruit
+asari
+poochyena
+inkblot
+dipteran
+bernese mountain dog
+salandit
+faun \(spyro\)
+axolotl
+kremling
+cocker spaniel
+chao \(sonic\)
+bull terrier
+smeargle
+lamniform
+samoyed
+species request
+sharpclaw
+zebstrika
+eurasian red squirrel
+mudkip
+rattata
+iguanid
+galarian form
+hatterene
+decidueye
+chespin
+living clothing
+leomon
+giratina
+chocobo
+mantis
+red wolf
+wereeulipotyphlan
+llama
+werehog

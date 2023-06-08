@@ -1,0 +1,153 @@
+mammal
+canid
+canine
+felid
+canis
+equid
+equine
+scalie
+feline
+fox
+dragon
+domestic dog
+wolf
+felis
+lagomorph
+domestic cat
+reptile
+leporid
+rabbit
+horse
+pantherine
+avian
+bovid
+hybrid
+pony
+rodent
+unicorn
+marine
+ursid
+bird
+caprine
+demon
+tiger
+pegasus
+earth pony
+fish
+cervid
+alien
+arthropod
+murid
+murine
+mustelid
+bovine
+lion
+robot
+digimon \(species\)
+eeveelution
+winged unicorn
+spitz
+lizard
+chiropteran
+shark
+eulipotyphlan
+goat
+snake
+mouse
+hedgehog
+marsupial
+procyonid
+nordic sled dog
+sciurid
+raccoon
+cattle
+monster
+hyaenid
+dinosaur
+insect
+western dragon
+husky
+were
+pastoral dog
+herding dog
+werecanid
+lutrine
+mythological avian
+musteline
+elemental creature
+mephitid
+skunk
+lucario
+crocodilian
+renamon
+furred dragon
+rat
+sheep
+suina
+ailurid
+werecanine
+animatronic
+red panda
+fennec
+gryphon
+werewolf
+ursine
+suid
+flora fauna
+primate
+sus \(pig\)
+boss monster
+raccoon dog
+spotted hyena
+tanuki
+tree squirrel
+unknown species
+red fox
+giant panda
+elf
+jackal
+cheetah
+amphibian
+lynx
+hunting dog
+kobold
+snow leopard
+mollusk
+theropod
+macropod
+spirit
+leopard
+koopa
+gardevoir
+pikachu
+true musteline
+galliform
+goo creature
+phasianid
+taur
+kangaroo
+german shepherd
+animate inanimate
+haplorhine
+zebra
+passerine
+oscine
+undead
+ghost
+capreoline
+umbreon
+toy dog
+polar bear
+changeling
+canid demon
+cephalopod
+cetacean
+crocodylid
+eevee
+crocodile
+hellhound
+mustela
+imp
+gallus \(genus\)
+chicken
+sergal
